@@ -27,7 +27,7 @@ Rectangle {
 
     Timer {
         id: timer
-        interval: 2000 // Display for 2 seconds
+        interval: 3000 // Display for 2 seconds
         onTriggered: toast.opacity = 0
     }
 }
