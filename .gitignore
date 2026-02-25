@@ -1,0 +1,20 @@
+# ===================================
+# 🐍 Python
+# ===================================
+**/__pycache__/
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+**/.ruff_cache/
+.ruff_cache/
+
+# ===================================
+# 📖 ambientes virtuais
+# ===================================
+**/.venv/
+**/venv/
+.venv
+venv

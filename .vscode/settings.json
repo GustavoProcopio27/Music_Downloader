@@ -1,0 +1,14 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src",
+    ],
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.generateWithTypeAnnotation": true,
+
+
+
+}
